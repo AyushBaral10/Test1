@@ -71,7 +71,7 @@ public class Main {
         }
 
         else if(cashed==totalDiscAmt){
-            System.out.println("Thank you, visit again!!");
+            System.out.println("Thank you visit again!");
         }
 
         else if(cashed>totalDiscAmt){
@@ -127,6 +127,6 @@ public class Main {
             }
         }
 
-        System.out.println("Thank you, visit again!!");
+        System.out.println("Thank you visit again!");
     }
 }
